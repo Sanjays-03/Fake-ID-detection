@@ -11,10 +11,8 @@ The Fake Government ID Proof Detection System is an AI-based solution designed t
 ## Technologies Used
 - Python
 - OpenCV (for image processing)
-- Tesseract OCR (for text extraction)
 - TensorFlow/Keras (for deep learning)
-- Flask/Django (for web API)
-- PostgreSQL/MySQL (for database storage)
+- MatplotLib (for visualisation)
 
 ## Installation
 1. Clone the repository:
@@ -32,4 +30,4 @@ The Fake Government ID Proof Detection System is an AI-based solution designed t
 - AI-based algorithms analyze the ID for any signs of forgery.
 - The system provides a confidence score and classification (Real or Fake).
 
-- THANK YOU!!!
+                                        THANK YOU!!!
